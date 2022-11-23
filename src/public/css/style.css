@@ -1,0 +1,12 @@
+#msg{
+    color:red;
+}
+
+table td {
+padding:20px;
+background-color:antiquewhite;
+}
+table th {
+    padding:20px;
+    background-color:rgb(226, 211, 192);
+    }
